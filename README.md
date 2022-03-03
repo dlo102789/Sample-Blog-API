@@ -1,21 +1,21 @@
-Sample Routes API
-/ping
+#Sample Routes API
 
+###/ping
 Returns a status of 200 and an object containing success property:
-/posts
 
+###/posts
 Returns listing of all posts
-/posts/:id
 
+###/posts/:id
 Returns all posts with the :id parameter
-/posts/:id/comments
 
+###/posts/:id/comments
 Returns all comments for post of :id
-/comments
 
+###/comments
 Returns all comments
-/comments/:id
 
+###/comments/:id
 Returns comments with the :id parameter
 
 To install, type npm install.
